@@ -1,2 +1,2 @@
 # auth-app
-A basic authentication for food service app
+A basic authentication app
